@@ -22,3 +22,11 @@ pip-wheel-metadata/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Weaviate logs
+weaviate.log
+*.log
+
+# Temporary files or data files used for local Weaviate
+*.db
+*.jsonl
