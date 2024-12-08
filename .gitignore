@@ -30,3 +30,8 @@ weaviate.log
 # Temporary files or data files used for local Weaviate
 *.db
 *.jsonl
+
+# Local Docker files
+*.env
+docker-compose.override.yml
+*.tmp
